@@ -1,3 +1,4 @@
 #Ignoramos los *exe
 
-/*.exe
+C++/arrays/ejercicios/*.exe
+C++/arrays/problemas/*.exe
