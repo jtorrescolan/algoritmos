@@ -1,0 +1,1 @@
+variable = limite_inferior + rand() % (limite_superior +1 - limite_inferior) ;
